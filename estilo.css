@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+
+
+body {
+
+background-image: url(1.png);
+
+}
+
+h1{
+    background: #0c020266;
+    color:yellow;
+    text-align: center;
+}
+.corpo {
+    color:#fff;
+   margin: auto;
+    width: 600px;
+    height: 400px;
+    background: #66666666;
+    font-size: 24px;
+
+}
